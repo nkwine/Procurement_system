@@ -314,7 +314,7 @@
         
         ?>
        
-            
+        <!--<p>This is the updated page</p> -->   
     </body>
       <script type="text/javascript" src="/example/eris1/plugins/jQuery/jQuery-2.1.4.min.js"> </script>
       <script type="text/javascript" src="/example/eris1/bootstrap/js/bootstrap.min.js" ></script>
